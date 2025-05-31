@@ -1,3 +1,4 @@
+wdir: ../..
 outs:
 - md5: bd41b580caaf26b8332380eab2f914b8
   size: 1192
